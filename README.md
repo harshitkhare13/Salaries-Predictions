@@ -1,8 +1,12 @@
 # Salaries Predictions Using:
-- ### Polynomial Regression
-- ### Support Vector Regression
-- ### Decision Tree Regression
-- ### Random Forest
+- ### Polynomial Regression  
+https://en.wikipedia.org/wiki/Polynomial_regression
+- ### Support Vector Regression  
+https://en.wikipedia.org/wiki/Support_vector_machine
+- ### Decision Tree Regression  
+https://en.wikipedia.org/wiki/Decision_tree_learning
+- ### Random Forest  
+https://en.wikipedia.org/wiki/Random_forest
   
 ## Polynomial Regression:
 Salaries of Different level employees are predicted using Polynomial Regression  
