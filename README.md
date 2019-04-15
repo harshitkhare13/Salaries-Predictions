@@ -1,4 +1,5 @@
 # Salaries Predictions Using:
+
 - ### Polynomial Regression  
 https://en.wikipedia.org/wiki/Polynomial_regression
 - ### Support Vector Regression  
